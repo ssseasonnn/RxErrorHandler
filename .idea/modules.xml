@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RxErrorHandlerDemo.iml" filepath="$PROJECT_DIR$/RxErrorHandlerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javademo/javademo.iml" filepath="$PROJECT_DIR$/javademo/javademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlindemo/kotlindemo.iml" filepath="$PROJECT_DIR$/kotlindemo/kotlindemo.iml" />
+    </modules>
+  </component>
+</project>
